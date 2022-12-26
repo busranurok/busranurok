@@ -67,4 +67,4 @@
 
 ## [🔝 Back to Top](#-follow-this-list) 
 
-[Bootcamp](https://akademi.ecodation.com/portfolio/veri-bilimi-bootcamp/)
+[Bootcamp]: <https://akademi.ecodation.com/portfolio/veri-bilimi-bootcamp/>
