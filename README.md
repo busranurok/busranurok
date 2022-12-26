@@ -26,6 +26,7 @@
 
 ### Academically 
 
+- Düzce University, Master Degree, Computer Engineering
 - Kocaeli University, Faculty of Engineering, Computer Engineering
 - Software and Systems Expertise Certificate, Smartpro Computer Academy
 - Data Science Bootcamp, IBB Data Lab & Ecodation Academy -> [Bootcamp]
