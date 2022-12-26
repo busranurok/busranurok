@@ -17,7 +17,7 @@
 
 - Too Many Personal Projects 
 - 3 Work Experience 
-- 2 Bootcamps 
+- 3 Bootcamps 
 - 3 Internships 
 - Too Many Group Projects 
 - 6 Term Projects 
@@ -27,7 +27,9 @@
 ### Academically 
 
 - Kocaeli University, Faculty of Engineering, Computer Engineering
-- Software and Systems Expertise Certificate, Smartpro Bilgisayar Akademisi 
+- Software and Systems Expertise Certificate, Smartpro Computer Academy
+- Data Science Bootcamp, IBB Data Lab & Ecodation Academy -> [Bootcamp]
+  - Data Science & Machine Learning - Doğu SIRT
 - Ios Developer Bootcamp, Techcareer.net
   - SwiftUI - Çağatay YILDIZ
 - Full Stack Software Developer Bootcamp, DevNot 
@@ -45,16 +47,17 @@
 
 ## 👩‍💻 Technical Skills 
 
-- LEARNING NOWADAYS : SwiftUI, UI/UX
+- LEARNING NOWADAYS : SwiftUI, UI/UX, Python, Data Science & Machine Learning
 - Mobile    : IOS
 - Frontend  : HTML, CSS, Javascript, Jquery
 - Backend   : C# (ASP.NET MVC/Web API, .NET Core, EF Core) 
 - Databases : Coredata, Firebase, MSSQL 
 - Test Automation    : Robot Framework, Appium, Selenium
+- Other: Python, Data Science & Machine Learning
 
 ## 💼 Work Preferences 
 
-- Interested in mobile and back end jobs, 
+- Interested in mobile and data science & machine learning jobs, 
 - Much more comfortable with the mobile, 
 - And hence prefer mobile(IOS)jobs.
 
@@ -63,3 +66,5 @@
 - You can contact me via [My Linkedin Account](https://www.linkedin.com/in/busranurok/). 
 
 ## [🔝 Back to Top](#-follow-this-list) 
+
+[Bootcamp](https://akademi.ecodation.com/portfolio/veri-bilimi-bootcamp/)
