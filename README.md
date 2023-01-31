@@ -64,8 +64,7 @@
 
 ## 💬 Contact 
 
-- You can contact me via [My Linkedin Account](https://www.linkedin.com/in/busranurok/). 
-- Or [My Mail](info@vakt-ihazar.com)
+- You can contact me via [My Linkedin Account](https://www.linkedin.com/in/busranurok/) or [My Mail](info@vakt-ihazar.com)
 
 ## [🔝 Back to Top](#-follow-this-list) 
 
