@@ -75,78 +75,78 @@
 ## 💼 Apps
 
 - Kiracı :
-  . Managing e2e leasing process for living areas.
-  . With this project , property owners, estate agents and manager companies can manage their properties effectively and easily.
-  Tech Stack :
-  . SwiftUI - User interface
-  . Alamofire - Communicating between server and client
-  . MVVM - Design Pattern
-  . Json
-  . AES - Encryption
+  - Managing e2e leasing process for living areas.
+  - With this project , property owners, estate agents and manager companies can manage their properties effectively and easily.
+   - Tech Stack :
+    - SwiftUI - User interface
+    - Alamofire - Communicating between server and client
+    - MVVM - Design Pattern
+    - Json
+    - AES - Encryption
 
 - Protector :
-  . It is the application that stores all your passwords.
-  Tech Stack
-  . UIKit - User interface
-  . MVC - Design Pattern
-  . Storyboard 
-  . CoreData - Local Database For Storing Data
-  . MessageUI - A User Interface for Composing Email and Text Messages
-  . UserDefaults - An Interface to The User’s Defaults Database, Where You Store Key-Value Pairs Persistently Across Launches of Your App
-  . CHIOTPField - Pin
-  . Toast-Swift - Toast-Swift is a Swift extension that adds toast notifications to the UIView object class.
-  . UIPasteboard - An object that helps a user share data from one place to another within your app, and from your app to other apps.
-  Download App Store Link : [Protector](https://apps.apple.com/tr/app/protector/id1667545548?l=tr)
+  - It is the application that stores all your passwords.
+    - Tech Stack
+      - UIKit - User interface
+      - MVC - Design Pattern
+      - Storyboard 
+      - CoreData - Local Database For Storing Data
+      - MessageUI - A User Interface for Composing Email and Text Messages
+      - UserDefaults - An Interface to The User’s Defaults Database, Where You Store Key-Value Pairs Persistently Across Launches of Your App
+      - CHIOTPField - Pin
+      - Toast-Swift - Toast-Swift is a Swift extension that adds toast notifications to the UIView object class.
+      - UIPasteboard - An object that helps a user share data from one place to another within your app, and from your app to other apps.
+    - Download App Store Link : [Protector](https://apps.apple.com/tr/app/protector/id1667545548?l=tr)
 
 - Pokemon :
-  . It is the requested case for a recruitment.
-  Tech Stack
-  . Swift - User interface
-  . UIKit - User interface
-  . Storyboard 
-  . Alamofire - Communicating between server and client
-  . VIPER - Design Pattern
-  . Kingfisher - It downloads the photo in the link and presses the imageView.
-  Project Power Point:
-  . This is a power point presentation of the project.
-  . You can click and download.
-  [POKEMON IOS APP.pptx](https://github.com/busranurok/Pokemon/files/11063111/POKEMON.IOS.APP.pptx)
+  - It is the requested case for a recruitment.
+    - Tech Stack
+      - Swift - User interface
+      - UIKit - User interface
+      - Storyboard 
+      - Alamofire - Communicating between server and client
+      - VIPER - Design Pattern
+      - Kingfisher - It downloads the photo in the link and presses the imageView.
+  - Project Power Point:
+      - This is a power point presentation of the project.
+      - You can click and download.
+      - [POKEMON IOS APP.pptx](https://github.com/busranurok/Pokemon/files/11063111/POKEMON.IOS.APP.pptx)
 
 - Mars Explorer :
-  . A mobile application with camera-based filtering, where images from different rovers are taken and listed (infinite scroll) via NASA APIs and different details are displayed when the image is clicked.
-  Tech Stack
-  . SwiftUI - User interface
-  . Alamofire - Communicating between server and client
-  . MVVM - Design Pattern
-  . Json
-  Download App Store Link : [Mars Explorer](https://apps.apple.com/tr/app/mars-explorer/id1667968298?l=tr)
+  - A mobile application with camera-based filtering, where images from different rovers are taken and listed (infinite scroll) via NASA APIs and different details are displayed when the image is clicked.
+    - Tech Stack
+      - SwiftUI - User interface
+      - Alamofire - Communicating between server and client
+      - MVVM - Design Pattern
+      - Json
+    - Download App Store Link : [Mars Explorer](https://apps.apple.com/tr/app/mars-explorer/id1667968298?l=tr)
 
 - KART-AL :
-  . It is a mobile application users earn coupons by watching ads in the category they want and can shop using these coupons.
-  Tech Stack
-  . Swift
-  . CocoaPods - Package Installer
-  . AVFoundation - Video Player
+  - It is a mobile application users earn coupons by watching ads in the category they want and can shop using these coupons.
+    - Tech Stack
+      - Swift
+      - CocoaPods - Package Installer
+      - AVFoundation - Video Player
 - KART-AL API :
-  . It is a Web API application developed for database operations of the mobile application I developed based on IOS called Kart-Al.
-  . CRUD operations were performed on MSSQL using C# MVC Web Api.
-  Tech Stack
-  . C# - Server Side API
-  . MVC - Design Pattern
-  . Json
-  . MSSQL - Database
+  - It is a Web API application developed for database operations of the mobile application I developed based on IOS called Kart-Al.
+  - CRUD operations were performed on MSSQL using C# MVC Web Api.
+    - Tech Stack
+    - C# - Server Side API
+    - MVC - Design Pattern
+    - Json
+    - MSSQL - Database
 
 - HomeSecurity :
-  . It is a multi-platform application for providing home supply.
-  Project link :
-  . If you want to see the project content page, please click.
-  [HomeSecurity](http://bilgisayarkocaelibitirmeteziguvenlik.blogspot.com)
-  Tech Stack
-  . EmguCV - Image processing
-  . OV7670 Camera - Getting images from camera
-  . MSSQL - Database
-  . Xamarin\Android - Mobile application
-  . ASP.NET Web Api - Mobile-DB communication
+  - It is a multi-platform application for providing home supply.
+  - Project link :
+  - If you want to see the project content page, please click.
+    [HomeSecurity](http://bilgisayarkocaelibitirmeteziguvenlik.blogspot.com)
+    - Tech Stack
+      - EmguCV - Image processing
+      - OV7670 Camera - Getting images from camera
+      - MSSQL - Database
+      - Xamarin\Android - Mobile application
+      - ASP.NET Web Api - Mobile-DB communication
 
 ## 💬 Contact 
 
