@@ -30,7 +30,7 @@
 - Düzce University, Master Degree, Computer Engineering
 - Kocaeli University, Faculty of Engineering, Computer Engineering
 - Software and Systems Expertise Certificate, Smartpro Computer Academy
-- Data Science Bootcamp, Miuul or Veri Bilimi Okulu -> [Bootcamp]
+- Data Science Bootcamp, Miuul or Veri Bilimi Okulu -> [Bootcamp1]
   - Python Programming for Data Science - Mustafa Vahit KESKİN
   - CRM Analytics
   - Measurement Problems
@@ -154,4 +154,4 @@
 ## [🔝 Back to Top](#-follow-this-list) 
 
 [Bootcamp]: <https://akademi.ecodation.com/portfolio/veri-bilimi-bootcamp/>
-[Bootcamp]: <https://bootcamp.veribilimiokulu.com/bootcamp-programlari/veri-bilimci-yetistirme-programi/>
+[Bootcamp1]: <https://bootcamp.veribilimiokulu.com/bootcamp-programlari/veri-bilimci-yetistirme-programi/>
