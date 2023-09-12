@@ -77,12 +77,12 @@
 - Kiracı :
   - Managing e2e leasing process for living areas.
   - With this project , property owners, estate agents and manager companies can manage their properties effectively and easily.
-   - Tech Stack :
-    - SwiftUI - User interface
-    - Alamofire - Communicating between server and client
-    - MVVM - Design Pattern
-    - Json
-    - AES - Encryption
+    - Tech Stack :
+      - SwiftUI - User interface
+      - Alamofire - Communicating between server and client
+      - MVVM - Design Pattern
+      - Json
+      - AES - Encryption
 
 - Protector :
   - It is the application that stores all your passwords.
@@ -107,7 +107,7 @@
       - Alamofire - Communicating between server and client
       - VIPER - Design Pattern
       - Kingfisher - It downloads the photo in the link and presses the imageView.
-  - Project Power Point:
+    - Project Power Point:
       - This is a power point presentation of the project.
       - You can click and download.
       - [POKEMON IOS APP.pptx](https://github.com/busranurok/Pokemon/files/11063111/POKEMON.IOS.APP.pptx)
@@ -131,16 +131,15 @@
   - It is a Web API application developed for database operations of the mobile application I developed based on IOS called Kart-Al.
   - CRUD operations were performed on MSSQL using C# MVC Web Api.
     - Tech Stack
-    - C# - Server Side API
-    - MVC - Design Pattern
-    - Json
-    - MSSQL - Database
+      - C# - Server Side API
+      - MVC - Design Pattern
+      - Json
+      - MSSQL - Database
 
 - HomeSecurity :
   - It is a multi-platform application for providing home supply.
-  - Project link :
   - If you want to see the project content page, please click.
-    [HomeSecurity](http://bilgisayarkocaelibitirmeteziguvenlik.blogspot.com)
+    - [HomeSecurity](http://bilgisayarkocaelibitirmeteziguvenlik.blogspot.com)
     - Tech Stack
       - EmguCV - Image processing
       - OV7670 Camera - Getting images from camera
