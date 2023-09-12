@@ -154,4 +154,4 @@
 ## [🔝 Back to Top](#-follow-this-list) 
 
 [Bootcamp]: <https://akademi.ecodation.com/portfolio/veri-bilimi-bootcamp/>
-[Bootcamp1]: <https://bootcamp.veribilimiokulu.com/bootcamp-programlari/veri-bilimci-yetistirme-programi/>
+[Bootcamp]: <https://bootcamp.veribilimiokulu.com/bootcamp-programlari/veri-bilimci-yetistirme-programi/>
