@@ -40,7 +40,7 @@
   - Querying MS SQL - Ömer ÇOLAKOĞLU
 - Data Science Bootcamp, IBB Data Lab & Ecodation Academy -> [Bootcamp]
   - Data Science & Machine Learning - Doğu SIRT
-- Ios Developer Bootcamp, Techcareer.net
+- iOS Developer Bootcamp, Techcareer.net
   - SwiftUI - Çağatay YILDIZ
 - Full Stack Software Developer Bootcamp, DevNot 
   - C# & .NET Core - Türkay ÜRKMEZ 
@@ -59,7 +59,7 @@
 ## 👩‍💻 Technical Skills 
 
 - LEARNING NOWADAYS : SwiftUI, UI/UX, Python, Data Science & Machine Learning
-- Mobile    : IOS
+- Mobile    : iOS
 - Frontend  : HTML, CSS, Javascript, Jquery
 - Backend   : C# (ASP.NET MVC/Web API, .NET Core, EF Core) 
 - Databases : Coredata, MS SQL 
@@ -70,7 +70,7 @@
 
 - Interested in mobile and data science & machine learning jobs, 
 - Much more comfortable with the mobile, 
-- And hence prefer mobile(IOS)jobs.
+- And hence prefer mobile(iOS)jobs.
 
 ## 💼 Apps
 
@@ -110,7 +110,7 @@
     - Project Power Point:
       - This is a power point presentation of the project.
       - You can click and download.
-      - [POKEMON IOS APP.pptx](https://github.com/busranurok/Pokemon/files/11063111/POKEMON.IOS.APP.pptx)
+      - [POKEMON iOS APP.pptx](https://github.com/busranurok/Pokemon/files/11063111/POKEMON.IOS.APP.pptx)
 
 - Mars Explorer :
   - A mobile application with camera-based filtering, where images from different rovers are taken and listed (infinite scroll) via NASA APIs and different details are displayed when the image is clicked.
@@ -128,7 +128,7 @@
       - CocoaPods - Package Installer
       - AVFoundation - Video Player
 - KART-AL API :
-  - It is a Web API application developed for database operations of the mobile application I developed based on IOS called Kart-Al.
+  - It is a Web API application developed for database operations of the mobile application I developed based on iOS called Kart-Al.
   - CRUD operations were performed on MSSQL using C# MVC Web Api.
     - Tech Stack
       - C# - Server Side API
@@ -154,4 +154,4 @@
 ## [🔝 Back to Top](#-follow-this-list) 
 
 [Bootcamp]: <https://akademi.ecodation.com/portfolio/veri-bilimi-bootcamp/>
-[Bootcamp2] : <https://bootcamp.veribilimiokulu.com/bootcamp-programlari/veri-bilimci-yetistirme-programi/>
+[Bootcamp2]: <https://bootcamp.veribilimiokulu.com/bootcamp-programlari/veri-bilimci-yetistirme-programi/>
