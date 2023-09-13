@@ -74,6 +74,24 @@
 
 ## 💼 Apps
 
+- Miuultluluk :
+  - Happiness score calculator app, using machine learning algorithms and data science.
+    - Tech Stack :
+        - SwiftUI - User interface/ Mobile application
+        - Alamofire - Communicating between server and client
+        - MVVM - Design Pattern
+        - Json
+        - Python - Data Science
+        - .Net Core - Mobile-DB communication
+    - Mobile Application Intro :
+      - This is a intro of the mobile application with "canva.com".
+      - You can click and see.
+      - [Link](https://www.canva.com/design/DAFuIgNf3Y8/CL_wsKGYrNOMsjFeyHAxjQ/watch?utm_content=DAFuIgNf3Y8&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+    - Project Prize Presentation :
+      - This is a presentation of the project with "prezi.com".
+      - You can click and see.
+      - [Presentation](https://prezi.com/view/ek5neW2zRg1u6wRBIXae/)
+
 - Kiracı :
   - Managing e2e leasing process for living areas.
   - With this project , property owners, estate agents and manager companies can manage their properties effectively and easily.
