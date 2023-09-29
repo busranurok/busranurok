@@ -26,8 +26,8 @@
 - Too Many Assignments and Projects 
 
 ### Academically 
-
-- Düzce University, Master Degree, Computer Engineering
+- Duzce University, Electric
+- Duzce University, Master Degree, Computer Engineering
 - Kocaeli University, Faculty of Engineering, Computer Engineering
 - Software and Systems Expertise Certificate, Smartpro Computer Academy
 - Data Science Bootcamp, Miuul or Veri Bilimi Okulu -> [Bootcamp1]
@@ -80,7 +80,6 @@
         - SwiftUI - User interface/ Mobile application
         - Alamofire - Communicating between server and client
         - MVVM - Design Pattern
-        - Json
         - Python - Data Science
         - .Net Core - Mobile-DB communication
     - Mobile Application Intro :
